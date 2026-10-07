@@ -27,9 +27,12 @@ Este repositório foi criado para aprender os conceitos básicos do Git.
 - [x] Criação e uso de branch.
 - [x] Merge e resolução de conflito real.
 - [x] Testes de arquivos ignorados e consulta do histórico.
-- [ ] Publicação no GitHub e entrega da URL.
+- [x] Publicação no GitHub, clone de verificação e exclusão da branch remota integrada.
+- [ ] Envio da URL no Google Classroom.
 
 **Etapas locais executadas em:** 07/10/2026.  
-**Total de commits:** 11 nesta preparação; consultar `git rev-list --count HEAD` para o total atual.
+**Total de commits:** 12 nesta preparação; consultar `git rev-list --count HEAD` para o total atual.
 
-O repositório foi preparado localmente antes da publicação; a criação inicial e o clone pelo GitHub descritos no roteiro ainda não foram realizados.
+As etapas foram executadas localmente antes da publicação, e o clone foi verificado depois do envio ao GitHub. A ordem de criação do repositório remoto foi adaptada à disponibilidade da autenticação. Os commits e os merges são reais e preservados.
+
+**URL para entrega:** https://github.com/silvalimamateus241-arch/meu-primeiro-projeto-git
