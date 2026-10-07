@@ -4,3 +4,6 @@ git clone - Clona um repositório remoto
 git add - Adiciona arquivos à área de staging
 git commit - Registra as alterações no repositório local
 git status - Mostra o estado dos arquivos
+git branch - Lista branches ou cria uma nova branch
+git checkout - Muda para outra branch
+git push origin <branch> - Envia uma branch ao repositório remoto
