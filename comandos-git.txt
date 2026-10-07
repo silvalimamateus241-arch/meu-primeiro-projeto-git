@@ -7,3 +7,11 @@ git status - Mostra o estado dos arquivos
 git branch - Lista branches ou cria uma nova branch
 git checkout - Muda para outra branch
 git push origin <branch> - Envia uma branch ao repositório remoto
+git pull - Obtém e integra alterações do repositório remoto
+git log --graph --oneline - Mostra o histórico e as ramificações
+git branch -d <branch> - Exclui uma branch local já integrada
+git push origin --delete <branch> - Exclui uma branch remota
+
+=== RESOLUÇÃO DE CONFLITOS ===
+git merge <branch> - Integra uma branch e pode gerar conflitos
+Quando há conflito: editar o arquivo, escolher o conteúdo correto, remover as marcações, executar git add e git commit.
