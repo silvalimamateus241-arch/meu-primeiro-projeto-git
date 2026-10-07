@@ -1,0 +1,12 @@
+# Arquivos temporários
+*.tmp
+*.log
+# Arquivos de sistema
+.DS_Store
+Thumbs.db
+# IDEs
+.vscode/
+.idea/
+# Exemplos de arquivos pessoais
+senha.txt
+configuracoes-locais.txt
